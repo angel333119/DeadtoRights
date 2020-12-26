@@ -1,0 +1,10 @@
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\DeadtoRights.csprojAssemblyReference.cache
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\DeadtoRights.Form1.resources
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\DeadtoRights.Properties.Resources.resources
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\DeadtoRights.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\DeadtoRights.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\DeadtoRights\bin\Debug\Dead to Rights Text Extractor Inserter.exe.config
+C:\Users\Caio\source\repos\DeadtoRights\bin\Debug\Dead to Rights Text Extractor Inserter.exe
+C:\Users\Caio\source\repos\DeadtoRights\bin\Debug\Dead to Rights Text Extractor Inserter.pdb
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\Dead to Rights Text Extractor Inserter.exe
+C:\Users\Caio\source\repos\DeadtoRights\obj\Debug\Dead to Rights Text Extractor Inserter.pdb
